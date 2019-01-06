@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 Hi
+
 KSW
+
 clown
+
 chaosillu@gmail.com
